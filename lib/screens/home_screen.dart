@@ -11,7 +11,7 @@ import '../widgets/image_container.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
 
-  static const routeName = '/';
+  static const routeName = '/home';
   @override
   Widget build(BuildContext context) {
     Article article = Article.articles[0];

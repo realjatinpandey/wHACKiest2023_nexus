@@ -1,8 +1,8 @@
 # nexus_alpha
 
-A new Flutter project.
+CodeRIT hackathon
 
 ## Whackiest 2023 Nexus
 
-Jatin Pandey
+Made by Jatin Pandey
 
